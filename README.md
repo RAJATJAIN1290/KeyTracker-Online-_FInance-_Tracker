@@ -73,3 +73,12 @@ Hibernate Framework - Version 5 or later.
 ![add2](https://github.com/user-attachments/assets/0fae0b50-9dad-474b-83b4-ee2358223982)
 
 
+# ER Diagram
+
+
+
+
+
+![er](https://github.com/user-attachments/assets/784bcaec-6ead-4c33-9069-fead93ac6050)
+
+
