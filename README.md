@@ -58,3 +58,18 @@
 ![main3](https://github.com/user-attachments/assets/e0b5a062-e2ee-40d2-8780-69ae9307fe48)
 ![main4](https://github.com/user-attachments/assets/69f8fa9f-03fb-4400-b844-55b807bd70a9)
 Hibernate Framework - Version 5 or later.
+#         ADDED EXTRA FUNCTIONALITY
+
+  # This feature allows users to export their expense data to a CSV file, making it easy to download and view the data offline or import it into other applications like Excel.
+
+      -> How It Works
+      User Login: Upon logging in, the user's ID is retrieved from the session.
+      Export Expenses: The user can click the "Export to CSV" button on the "Export Expenses" page. This triggers a request to the ExportCSVServlet, which fetches the user's expenses from the database.
+      CSV File Generation: The servlet generates a CSV file containing the expense data, including:
+      Expense Title
+     
+![add1](https://github.com/user-attachments/assets/9a00b6da-01a9-4490-bfa7-9c48fb1e37f3)
+
+![add2](https://github.com/user-attachments/assets/0fae0b50-9dad-474b-83b4-ee2358223982)
+
+
